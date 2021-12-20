@@ -4,7 +4,7 @@
 
 * `Library` - библиотека
 * `LibraryTest` - тесты
-* `LibraryTest` - использование
+* `LibraryUsage` - использование
 
 ## Usage
 
